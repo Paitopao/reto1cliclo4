@@ -16,4 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # Video de demostración
 
-![](https://github.com/Paitopao/reto1cliclo4/blob/main/funcionamiento-conversor-de-divisa.gif)
+![][def]
+
+
+[def]: https://github.com/Paitopao/reto1cliclo4/blob/main/funcionamiento-conversor-de-divisa.gif
