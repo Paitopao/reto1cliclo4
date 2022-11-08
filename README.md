@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # Video de demostración
 
-<img src="funcionamiento-conversor-de-divisa.gif" width="500"/>
+<img src="funcionamiento-conversor-de-divisa.gif"/>
