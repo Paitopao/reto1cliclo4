@@ -15,8 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://github.com/Paitopao/reto1cliclo4.git), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # Video de demostración
-
-![][def]
-
-
-[def]: https://github.com/Paitopao/reto1cliclo4/blob/main/funcionamiento-conversor-de-divisa.gif
+![](https://github.com/Paitopao/reto1cliclo4/blob/main/funcionamiento-conversor-de-divisa.gif)
